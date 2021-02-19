@@ -5,12 +5,3 @@ description: >-
   Resources about Internal Platforms teams and products
 tags:
   - Internal Platforms teams
-colors:
-    gradient_left: "#000000"
-    gradient_right: "#444444"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
-buttons:
-      github_hide: true 
