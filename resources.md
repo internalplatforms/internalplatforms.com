@@ -34,8 +34,23 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AQPSR09bxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
+
+2019 [What is Platform Product Management by Airbnb Product Manager](https://www.youtube.com/watch?v=GgozKs1dCQ0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgozKs1dCQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2018 [Infrastructure as product: Building GitHub's future - GitHub Universe 2018](https://www.youtube.com/watch?v=YmdqxzX6KAc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YmdqxzX6KAc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
   
 2018 ["Platform teams aren’t like other teams" by Stacy Goerik](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/#platform-teams-arent-like-other-teams)
+
+***
+
+2017 [What I talk about when I talk about ‘Platforms’ - Evan Bottcher](https://www.youtube.com/watch?v=05_Mz08LWIY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05_Mz08LWIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
