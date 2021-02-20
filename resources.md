@@ -2,11 +2,19 @@
 
 A list of books, writings and papers about the Internal Platforms teams and products.
 
+### Books
+
+* [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
 
 ### Articles and media
 
 * 2020 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)
+* 2020 [Platform Engineering by Luis Alonzo Herrera](https://wichon.com/platform-engineering)
+* 2020 [How We Improved Developer Productivity for Our DevOps Teams by Maria Jernström and Jason palmer](https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams/)
+* 2020 [Advocating for a Product Mindset within Platform Teams and How We Do It at HelloTech (Part 1) by Samantha Coffman](https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015)
+* 2020 [How to build a PaaS for 1500 engineers by Galo Navarro](https://srvaroa.github.io/paas/infrastructure/platform/kubernetes/cloud/2020/01/02/talk-how-to-build-a-paas-for-1500-engineers.html)
 * 2020 [Why GitHub built their own Internal Developer Platform by Jason Warner](https://humanitec.com/blog/jason-warner-why-github-built-their-own-internal-developer-platform)
+* 2020 [Building a Platform Team — Laying the Foundations by Vasa](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654)
 * 2020 [Product for Internal Platforms by Camille Fournier](https://skamille.medium.com/product-for-internal-platforms-9205c3a08142)
 * 2020 [The Rise of Platform Engineering by Nick Daigler](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * 2019 [Managing Platform Teams: How to Structure and Run a Great Platform Team – Interview with Karen Cohen From Wix.com](https://codingsans.com/blog/managing-platform-teams)
@@ -36,8 +44,23 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
 
+2020 [Kubernetes is Not Your Platform, It's Just the Foundation](https://www.youtube.com/watch?v=Iu_T3X-bPqE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iu_T3X-bPqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+***
+
 2020 [Minimum Viable Product for Platforms by Martin Cagan](https://www.youtube.com/watch?v=A9wx91rVTms)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/A9wx91rVTms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2019 [How Stripe Invests in Technical Infrastructure](https://www.youtube.com/watch?v=rYzmXLhIaHQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYzmXLhIaHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2020 [Podcast: The challenges and opportunities of Platform engineering and DevOps](https://www.codurance.com/publications/challenges-oportunities-platform-engineering-devops)
 
 ***
 
@@ -58,6 +81,10 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 2018 [Infrastructure as product: Building GitHub's future - GitHub Universe 2018](https://www.youtube.com/watch?v=YmdqxzX6KAc)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YmdqxzX6KAc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2018 [Platforms at Twilio: Unlocking Developer Effectiveness](https://www.infoq.com/presentations/twilio-devops/)
 
 ***
   
