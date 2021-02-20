@@ -1,6 +1,6 @@
 ## Resources
 
-> If you want to add a resource to this list, [you can edit this file directly](https://github.com/internalplatforms/internalplatforms-resources/blob/main/resources.md) and send us a pull request.
+> If you want to add a resource to this list, [you can edit this file on GitHub](https://github.com/internalplatforms/internalplatforms-resources/blob/main/resources.md) and send us a pull request.
 
 A list of books, writings and papers about the Internal Platforms teams and products. 
 
