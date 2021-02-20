@@ -35,20 +35,20 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
   
-- 2018 ["Platform teams aren’t like other teams" by Stacy Goerik](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/#platform-teams-arent-like-other-teams)
+2018 ["Platform teams aren’t like other teams" by Stacy Goerik](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/#platform-teams-arent-like-other-teams)
 
 ***
 
-- 2017 [Managing Your Platform as a Product with Scott Shaw](https://www.youtube.com/watch?v=d8UEYNFrvjk)
+2017 [Managing Your Platform as a Product with Scott Shaw](https://www.youtube.com/watch?v=d8UEYNFrvjk)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d8UEYNFrvjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
    
-- 2016 ["Scaling Infrastructure Engineering at Slack" by Julia Grace](https://www.infoq.com/presentations/slack-scaling-infrastructure/)
+2016 ["Scaling Infrastructure Engineering at Slack" by Julia Grace](https://www.infoq.com/presentations/slack-scaling-infrastructure/)
 
 ***
   
-- 2015 ["Engineering Effectiveness at Twitter" by Peter Seibel](https://www.youtube.com/watch?v=8IyXcLFO9ns)
+2015 ["Engineering Effectiveness at Twitter" by Peter Seibel](https://www.youtube.com/watch?v=8IyXcLFO9ns)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8IyXcLFO9ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
