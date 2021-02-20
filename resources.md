@@ -9,6 +9,10 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ### Articles, papers and writings
 
 * 2020 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)
+* 2020 [KubeCon NA 2020 Key Takeaways: Platforms, Safety, and End Users by Daniel Bryant](https://blog.getambassador.io/kubecon-na-2020-key-takeaways-platforms-safety-and-end-users-cb6df12082e6)
+* 2020 [Effective storytelling for internal platform teams by Rebecca Murphey](https://rmurphey.com/posts/effective-storytelling-internal-platforms/)
+* 2020 [Why Sport1 built their Internal Developer Platform by Paolo Garri](https://humanitec.com/blog/why-sport1-built-their-internal-developer-platform)
+* 2020 [Why Zalando built their Internal Developer Platform by Jan Löffler](https://humanitec.com/blog/why-zalando-builds-an-own-developer-platform)
 * 2020 [Platform Engineering by Luis Alonzo Herrera](https://wichon.com/platform-engineering)
 * 2020 [How We Improved Developer Productivity for Our DevOps Teams by Maria Jernström and Jason palmer](https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams/)
 * 2020 [Advocating for a Product Mindset within Platform Teams and How We Do It at HelloTech (Part 1) by Samantha Coffman](https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015)
