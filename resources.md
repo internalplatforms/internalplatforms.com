@@ -22,42 +22,42 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ### Talks
 
 2021 [Challenges in building and scaling internal platform teams](https://www.youtube.com/watch?v=PrIAq7dgQq8)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrIAq7dgQq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PrIAq7dgQq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2020 [WTF is Platform as a Product with Matthew Skelton](https://www.youtube.com/watch?v=-LlGxgwDzVc)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-LlGxgwDzVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-LlGxgwDzVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2020 [Why did you build an Internal Developer Platform at Github?](https://www.youtube.com/watch?v=VX10x8-PXaw)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VX10x8-PXaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VX10x8-PXaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2020 [Minimum Viable Product for Platforms by Martin Cagan](https://www.youtube.com/watch?v=A9wx91rVTms)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A9wx91rVTms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A9wx91rVTms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2019 [Platform as a Product: How to Delight Your Developers and Deliver Value for Your Customers](https://www.youtube.com/watch?v=2JLUvwsoLYQ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2JLUvwsoLYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2JLUvwsoLYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2019 [What is a Thinnest Viable Platform (TVP)? - Team Topologies](https://www.youtube.com/watch?v=8AQPSR09bxk)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AQPSR09bxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8AQPSR09bxk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2019 [What is Platform Product Management by Airbnb Product Manager](https://www.youtube.com/watch?v=GgozKs1dCQ0)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GgozKs1dCQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GgozKs1dCQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2018 [Infrastructure as product: Building GitHub's future - GitHub Universe 2018](https://www.youtube.com/watch?v=YmdqxzX6KAc)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YmdqxzX6KAc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YmdqxzX6KAc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
   
@@ -66,12 +66,12 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ***
 
 2017 [What I talk about when I talk about ‘Platforms’ - Evan Bottcher](https://www.youtube.com/watch?v=05_Mz08LWIY)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05_Mz08LWIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/05_Mz08LWIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
 2017 [Managing Your Platform as a Product with Scott Shaw](https://www.youtube.com/watch?v=d8UEYNFrvjk)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d8UEYNFrvjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/d8UEYNFrvjk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
    
@@ -80,6 +80,6 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ***
   
 2015 ["Engineering Effectiveness at Twitter" by Peter Seibel](https://www.youtube.com/watch?v=8IyXcLFO9ns)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8IyXcLFO9ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8IyXcLFO9ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
