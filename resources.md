@@ -10,6 +10,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ### Articles, papers and writings
 
+* 2021 [How LinkedIn turned to real-time feedback for developer tooling by Michael Berlowitz](https://engineering.linkedin.com/blog/2021/real-time-feedback-for-developer-tooling)
 * 2020 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)
 * 2020 [KubeCon NA 2020 Key Takeaways: Platforms, Safety, and End Users by Daniel Bryant](https://blog.getambassador.io/kubecon-na-2020-key-takeaways-platforms-safety-and-end-users-cb6df12082e6)
 * 2020 [Effective storytelling for internal platform teams by Rebecca Murphey](https://rmurphey.com/posts/effective-storytelling-internal-platforms/)
