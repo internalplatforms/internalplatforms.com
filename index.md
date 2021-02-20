@@ -11,6 +11,6 @@ This website is a central repository of resources, writings and talks related to
 ### Resources
 
 * [Books, papers and writings](/resources.md)
-* [Talks](/talks.md)
-* [Communities and conferences](/events.md)
+* [Talks](/resources.md#talks)
+* [Communities and conferences](/resources.md#community)
 
