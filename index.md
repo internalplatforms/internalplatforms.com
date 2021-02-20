@@ -10,7 +10,7 @@ This website is a central repository of resources, writings and talks related to
 
 ### Resources
 
-* [Books, papers and writings](/writings.md)
+* [Books, papers and writings](/resources.md)
 * [Talks](/talks.md)
-* [Communities and conferences](/communities.md)
+* [Communities and conferences](/communities-and-events.md)
 
