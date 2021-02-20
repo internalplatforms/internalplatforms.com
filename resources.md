@@ -26,6 +26,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
 
+2020 [WTF is Platform as a Product with Matthew Skelton](https://www.youtube.com/watch?v=-LlGxgwDzVc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LlGxgwDzVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 2020 [Why did you build an Internal Developer Platform at Github?](https://www.youtube.com/watch?v=VX10x8-PXaw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VX10x8-PXaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
