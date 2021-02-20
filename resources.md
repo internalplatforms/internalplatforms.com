@@ -24,6 +24,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 * 2020 [Building a Platform Team — Laying the Foundations by Vasa](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654)
 * 2020 [Product for Internal Platforms by Camille Fournier](https://skamille.medium.com/product-for-internal-platforms-9205c3a08142)
 * 2020 [The Rise of Platform Engineering by Nick Daigler](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
+* 2019 [Can An Internal Technology Platform Give Your Company A Competitive Advantage? by Maarten Wensveen](https://www.forbes.com/sites/forbestechcouncil/2019/04/05/can-an-internal-technology-platform-give-your-company-a-competitive-advantage/?sh=45d922c55d17)
 * 2019 [Managing Platform Teams: How to Structure and Run a Great Platform Team – Interview with Karen Cohen From Wix.com](https://codingsans.com/blog/managing-platform-teams)
 * 2018 [How to build a platform team now! the secrets to successful engineering by Kenichi Shibata](https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
 * 2018 [What I Talk About When I Talk About Platforms by Evan Bottcher](https://martinfowler.com/articles/talk-about-platforms.html)
