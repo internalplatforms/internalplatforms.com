@@ -45,7 +45,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ***
 
 2020 [Kubernetes is Not Your Platform, It's Just the Foundation](https://www.youtube.com/watch?v=Iu_T3X-bPqE)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iu_T3X-bPqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Iu_T3X-bPqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***
@@ -56,7 +56,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ***
 
 2019 [How Stripe Invests in Technical Infrastructure](https://www.youtube.com/watch?v=rYzmXLhIaHQ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYzmXLhIaHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rYzmXLhIaHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
