@@ -20,6 +20,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ### Talks
 
+2021 [Challenges in building and scaling internal platform teams](https://www.youtube.com/watch?v=PrIAq7dgQq8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrIAq7dgQq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 2020 [Minimum Viable Product for Platforms by Martin Cagan](https://www.youtube.com/watch?v=A9wx91rVTms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9wx91rVTms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
