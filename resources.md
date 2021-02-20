@@ -6,6 +6,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ### Articles and media
 
 * 2020 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)
+* 2020 [Why GitHub built their own Internal Developer Platform by Jason Warner](https://humanitec.com/blog/jason-warner-why-github-built-their-own-internal-developer-platform)
 * 2020 [Product for Internal Platforms by Camille Fournier](https://skamille.medium.com/product-for-internal-platforms-9205c3a08142)
 * 2020 [The Rise of Platform Engineering by Nick Daigler](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 * 2019 [Managing Platform Teams: How to Structure and Run a Great Platform Team – Interview with Karen Cohen From Wix.com](https://codingsans.com/blog/managing-platform-teams)
@@ -22,6 +23,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 2021 [Challenges in building and scaling internal platform teams](https://www.youtube.com/watch?v=PrIAq7dgQq8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrIAq7dgQq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2020 [Why did you build an Internal Developer Platform at Github?](https://www.youtube.com/watch?v=VX10x8-PXaw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VX10x8-PXaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
