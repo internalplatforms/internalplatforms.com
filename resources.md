@@ -26,7 +26,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 2016 ["Scaling Infrastructure Engineering at Slack" by Julia Grace](https://www.infoq.com/presentations/slack-scaling-infrastructure/)
   
   
-2015 "Engineering Effectiveness at Twitter" by Peter Seibel. 
+2015 ["Engineering Effectiveness at Twitter" by Peter Seibel](https://www.youtube.com/watch?v=8IyXcLFO9ns). 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8IyXcLFO9ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
