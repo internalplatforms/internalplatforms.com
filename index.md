@@ -6,4 +6,4 @@ These platforms are consumed on a self-service basis by software development tea
 
 For platform engineers, the software development teams in their company are their clients. They need to understand their needs and design self-service products to improve their development experience.
 
-In this book, written from our own experience, we will introduce the concepts and lessons we learned implementing Internal Platform teams in the real world.
+This website is a central repository of resources, writings and talks related to this new team topology and implementation of a DevOps philosophy with a special focus on teams' autonomy.
