@@ -51,6 +51,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
 
+2020 [Spanish: Una aproximación a la infraestructura evolutiva by David Lluna and Paco Sanchez](https://www.youtube.com/watch?v=UQTgD5AIJAE)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UQTgD5AIJAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 2020 [Kubernetes is Not Your Platform, It's Just the Foundation](https://www.youtube.com/watch?v=Iu_T3X-bPqE)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Iu_T3X-bPqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
