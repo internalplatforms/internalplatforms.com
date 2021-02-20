@@ -20,6 +20,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 * 2020 [How We Improved Developer Productivity for Our DevOps Teams by Maria Jernström and Jason palmer](https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams/)
 * 2020 [Advocating for a Product Mindset within Platform Teams and How We Do It at HelloTech (Part 1) by Samantha Coffman](https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015)
 * 2020 [How to build a PaaS for 1500 engineers by Galo Navarro](https://srvaroa.github.io/paas/infrastructure/platform/kubernetes/cloud/2020/01/02/talk-how-to-build-a-paas-for-1500-engineers.html)
+* 2020 [For DevOps, internal platforms and self-service options are in by Joe McKendrick](https://www.zdnet.com/article/for-devops-internal-platforms-and-self-service-options-are-in/)
 * 2020 [Why GitHub built their own Internal Developer Platform by Jason Warner](https://humanitec.com/blog/jason-warner-why-github-built-their-own-internal-developer-platform)
 * 2020 [Building a Platform Team — Laying the Foundations by Vasa](https://medium.com/walmartglobaltech/building-a-platform-team-d915221d5654)
 * 2020 [Product for Internal Platforms by Camille Fournier](https://skamille.medium.com/product-for-internal-platforms-9205c3a08142)
