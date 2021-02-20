@@ -72,7 +72,3 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8IyXcLFO9ns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
----
-
-[< back to home](/index.md)
