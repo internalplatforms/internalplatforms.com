@@ -61,7 +61,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
   
-2018 ["Platform teams aren’t like other teams" by Stacy Goerik](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/#platform-teams-arent-like-other-teams)
+2018 [Nuts and bolts of building a platform team (Flatiron Health) by Stacy Goerik](https://www.datadoghq.com/videos/nuts-bolts-of-building-a-platform-team/)
 
 ***
 
