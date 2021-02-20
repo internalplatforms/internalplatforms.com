@@ -6,7 +6,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 * [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
 
-### Articles and media
+### Articles, papers and writings
 
 * 2020 [Camille Fournier on Effectively Managing Internal Platform Teams](https://www.infoq.com/news/2020/08/fournier-internal-platform/)
 * 2020 [Platform Engineering by Luis Alonzo Herrera](https://wichon.com/platform-engineering)
