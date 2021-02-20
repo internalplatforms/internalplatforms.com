@@ -7,3 +7,10 @@ These platforms are consumed on a self-service basis by software development tea
 For platform engineers, the software development teams in their company are their clients. They need to understand their needs and design self-service products to improve their development experience.
 
 This website is a central repository of resources, writings and talks related to this new team topology and implementation of a DevOps philosophy with a special focus on teams' autonomy.
+
+### Resources
+
+* [Books, papers and writings](/writings.md)
+* [Talks](/talks.md)
+* [Communities and conferences](/communities.md)
+
