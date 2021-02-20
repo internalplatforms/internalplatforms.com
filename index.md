@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About the Internal Platforms products and teams
 
-You can use the [editor on GitHub](https://github.com/internalplatforms/internalplatforms-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Since 2017, companies in the software industry are showing interest in building Internal Platforms applying product management concepts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These platforms are consumed on a self-service basis by software development teams, preventing organizational anti-patterns like DevOps teams and ensuring non-blocking workflows that improve their lead time and ensure autonomy.
 
-### Markdown
+For platform engineers, the software development teams in their company are their clients. They need to understand their needs and design self-service products to improve their development experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/internalplatforms/internalplatforms-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In this book, written from our own experience, we will introduce the concepts and lessons we learned implementing Internal Platform teams in the real world.
