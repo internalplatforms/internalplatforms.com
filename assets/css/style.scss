@@ -29,6 +29,6 @@ $hr-border-color: #eff0f1;
   display: none;
 }
 
-.btn.nav-to {
+.btn:not(.active) {
   border-color: transparent;
 }
