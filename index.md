@@ -4,6 +4,8 @@ Since 2017, companies in the software industry are showing interest in building 
 
 These platforms are consumed on a self-service basis by software development teams, preventing organizational anti-patterns like DevOps teams and ensuring non-blocking workflows that improve their lead time and ensure autonomy.
 
+![](/assets/img/schema.png)
+
 For platform engineers, the software development teams in their company are their clients. They need to understand their needs and design self-service products to improve their development experience.
 
 This website is a central repository of resources, writings and talks related to this new team topology and implementation of a DevOps philosophy with a special focus on teams' autonomy.
