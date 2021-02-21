@@ -1,3 +1,7 @@
+---
+---
+
+
 // Headers
 $header-heading-color: #fff;
 $header-bg-color: #333333;
@@ -22,6 +26,5 @@ $hr-border-color: #eff0f1;
 @import "{{ site.theme }}";
 
 .page-header {
-    background: $header-bg-color;
+    background-color: red;
 }
-
