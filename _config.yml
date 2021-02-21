@@ -4,4 +4,7 @@ tagline: Resources about Internal Platforms teams and products
 description: >-
   Resources about Internal Platforms teams and products
 tags:
-  - Internal Platforms teams
+  - Internal Platform teams
+url: "https://internalplatforms.com"
+plugins:
+  - jekyll-sitemap
