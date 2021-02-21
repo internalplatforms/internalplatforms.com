@@ -22,7 +22,6 @@ $border-color: #dce6f0;
 $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
-
 @import "{{ site.theme }}";
 
 #skip-to-content{
@@ -34,6 +33,11 @@ $hr-border-color: #eff0f1;
   border-color: transparent;
 }
 
-ul li {
-  margin-bottom: .8rem;
+.main-content {
+  ul li {
+    margin-bottom: .8rem;
+  }
+  p {
+    margin-bottom: 1.4em;
+  }
 }
