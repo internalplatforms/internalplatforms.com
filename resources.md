@@ -40,7 +40,7 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 ### Great reference websites
 
 * [Digital Platform Playbook by Equal Experts](https://digital-platform.playbook.ee/)
-* [Internal Developer Platform](https://internaldeveloperplatform.org/)
+* [Internal Developer Platform by Humanitec](https://internaldeveloperplatform.org/)
 
 
 ### Talks
