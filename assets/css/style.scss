@@ -21,3 +21,7 @@ $hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
 
+.page-header {
+    background: $header-bg-color;
+}
+
