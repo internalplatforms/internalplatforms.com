@@ -41,3 +41,14 @@ $hr-border-color: #eff0f1;
     margin-bottom: 1.4em;
   }
 }
+
+#book{
+  .cover{
+    text-align: center;
+    img{
+      height: auto;
+      max-width: 400px;
+      width: 100%;
+    }
+  }
+}
