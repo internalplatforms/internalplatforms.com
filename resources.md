@@ -62,6 +62,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 ***
 
+2020 [Turning a simple internal configuration management tool into a platform By Csaba Bejan, Zoltan Mazula, Viktor Szpisjak & Balint Vadai](https://www.youtube.com/watch?v=TnY057T48Aw)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TnY057T48Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 2020 [Spanish: Una aproximación a la infraestructura evolutiva by David Lluna and Paco Sanchez](https://www.youtube.com/watch?v=UQTgD5AIJAE)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UQTgD5AIJAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -117,6 +122,11 @@ A list of books, writings and papers about the Internal Platforms teams and prod
 
 2017 [What I talk about when I talk about ‘Platforms’ - Evan Bottcher](https://www.youtube.com/watch?v=05_Mz08LWIY)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/05_Mz08LWIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
+2017 [John Cutler - Product Thinking For Internal Teams - Øredev 2017](https://vimeo.com/242051769)
+<iframe src="https://player.vimeo.com/video/242051769?color=ffffff" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
