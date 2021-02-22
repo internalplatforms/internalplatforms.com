@@ -10,9 +10,30 @@ For platform engineers, the software development teams in their company are thei
 
 This website is a repository of curated resources, writings and talks related to this new team topology and implementation of a DevOps philosophy with a special focus on teams' autonomy.
 
+
+<section id="resources">
+
 ### Resources
 
 * [Books, papers and writings](/resources.md)
 * [Talks](/resources.md#talks)
 * [Communities and conferences](/resources.md#community)
 
+</section>
+
+<section id="book">
+  
+### Our book
+
+We are writing a book based on two years of research and our own and other colleague's experience building Internal Platform team organizations.  
+  
+It will be published in late 2021, if you want to be notified, please visit [our leanpub page](https://leanpub.com/internal-platforms).
+
+
+<div class="cover">
+
+[![Internal Platforms book](https://d2sofvawe08yqg.cloudfront.net/internal-platforms/hero2x?1614036928)](https://leanpub.com/internal-platforms)
+
+</div>
+  
+</section>
