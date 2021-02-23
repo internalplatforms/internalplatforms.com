@@ -1,4 +1,4 @@
-## Internal Platforms products and teams
+## Internal Platform products and teams
 
 Since 2017, companies in the software industry are showing interest in building Internal Platforms applying product management concepts.
 
