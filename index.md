@@ -13,27 +13,30 @@ This website is a repository of curated resources, writings and talks related to
 
 <section id="resources">
 
-### Resources
+  <h3>Resources</h3>
 
-* [Books, papers and writings](/resources.md)
-* [Talks](/resources.md#talks)
-* [Communities and conferences](/resources.md#community)
+  <ul>
+    <li><a href="/resources.md">Books, papers and writings</a></li>
+    <li><a href="/resources.md#talks">Talks</a></li>
+  </ul>
 
 </section>
 
 <section id="book">
   
-### Our book
+  <h3>Our book</h3>
 
-We are writing a book based on two years of research and our own and other colleague's experience building Internal Platform team organizations.  
-  
-It will be published in late 2021, if you want to be notified, please visit [our leanpub page](https://leanpub.com/internal-platforms).
+  <p>We are writing a book based on two years of research and our own and other colleague's experience building Internal Platform team organizations.</p>
+
+  <p>It will be published in late 2021, if you want to be notified, please visit <a href="https://leanpub.com/internal-platforms">our leanpub page</a>.</p>
 
 
-<div class="cover">
+  <div class="cover">
 
-[![Internal Platforms book](https://d2sofvawe08yqg.cloudfront.net/internal-platforms/hero2x?1614036928)](https://leanpub.com/internal-platforms)
+  <a href="https://leanpub.com/internal-platforms">
+    <img src="https://d2sofvawe08yqg.cloudfront.net/internal-platforms/hero2x?1614036928" alt="Internal Platforms book"/>
+  </a>
 
-</div>
+  </div>
   
 </section>
