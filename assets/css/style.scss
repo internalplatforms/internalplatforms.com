@@ -42,8 +42,16 @@ $hr-border-color: #eff0f1;
   }
 }
 
+#resources{
+  margin: 1.6rem 0;
+  padding: 1.6rem .8rem;
+  background-color: #eee;
+}
+
 #book{
+  margin-top: 1.6rem;
   .cover{
+    margin-top: 1.6rem;
     text-align: center;
     img{
       height: auto;
