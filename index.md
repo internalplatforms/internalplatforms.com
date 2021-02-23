@@ -28,13 +28,13 @@ This website is a repository of curated resources, writings and talks related to
 
   <p>We are writing a book based on two years of research and our own and other colleague's experience building Internal Platform team organizations.</p>
 
-  <p>It will be published in late 2021, if you want to be notified, please visit <a href="https://leanpub.com/internal-platforms">our leanpub page</a>.</p>
+  <p>It will be published in late 2021, if you want to be notified, please visit <a title="Internal Platforms book" href="https://leanpub.com/internal-platforms">our leanpub page</a>.</p>
 
 
   <div class="cover">
 
-  <a href="https://leanpub.com/internal-platforms">
-    <img src="https://d2sofvawe08yqg.cloudfront.net/internal-platforms/hero2x?1614036928" alt="Internal Platforms book"/>
+  <a href="https://leanpub.com/internal-platforms" title="Internal Platforms book">
+    <img src="/assets/img/book-cover.png" alt="Internal Platforms book"/>
   </a>
 
   </div>
