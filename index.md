@@ -17,7 +17,7 @@ This website is a repository of curated resources, writings and talks related to
 
   <ul>
     <li><a href="/resources.html">Books, papers and writings</a></li>
-    <li><a href="/resources.thml#talks">Talks</a></li>
+    <li><a href="/resources.html#talks">Talks</a></li>
   </ul>
 
 </section>
