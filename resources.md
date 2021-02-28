@@ -36,6 +36,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 * 2017 [Why We Don’t Need a DevOps Team by Andrew Hatch](https://medium.com/seek-blog/platform-engineering-why-we-dont-need-a-devops-team-e88c8b97cc4f)
 * 2017 [Why Do Organizations Need a Platform Team? by David Jared (Adobe Tech)](https://medium.com/adobetech/why-do-organizations-need-a-platform-team-910d79893e0a)
 * 2017 [Platform engineering product teams in the ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
+* 2017 [Internal Product Management: the Good, the Bad and the Ugly](https://blackswanfarming.com/internal-product-management-the-good-the-bad-and-the-ugly/)
 * 2015 ["Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots" by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 
 
