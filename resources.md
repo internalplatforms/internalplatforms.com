@@ -10,6 +10,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 
 ### Articles, papers and writings
 
+* 2021 [Atlas: Our journey from a Python monolith to a managed platform by Naphat Sanguansin  and Utsav Shah (Dropbox)](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * 2021 [How we rolled out our Kubernetes platform in Adevinta Spain by Pau Gay](https://medium.com/adevinta-tech-blog/how-we-rolled-out-our-kubernetes-platform-in-adevinta-spain-63495884a1db)
 * 2021 [Preventing “go-around” with Platform Thinking by Kislay Verma](https://kislayverma.com/platform-thinking/preventing-go-around-with-platform-thinking/)
 * 2021 [How LinkedIn turned to real-time feedback for developer tooling by Michael Berlowitz](https://engineering.linkedin.com/blog/2021/real-time-feedback-for-developer-tooling)
@@ -47,6 +48,11 @@ A list of books, writings and papers about the Internal Platforms team and produ
 
 
 ### Talks
+
+2021 [How to make your developers self-serving with an Internal Developer Platform by Kaspar von Grünberg](https://www.youtube.com/watch?v=cUPnX66X-lo)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cUPnX66X-lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
 
 2021 [Challenges in building and scaling internal platform teams](https://www.youtube.com/watch?v=PrIAq7dgQq8)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PrIAq7dgQq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
