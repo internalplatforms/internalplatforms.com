@@ -69,6 +69,11 @@ A list of books, writings and papers about the Internal Platforms team and produ
 
 ***
 
+2020 [The Cloud Native Journey @Apple - Alena Prokharchyk, Software Engineer, Apple](https://www.youtube.com/watch?v=Tx8qXC-U3KM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tx8qXC-U3KM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 2020 [Turning a simple internal configuration management tool into a platform By Csaba Bejan, Zoltan Mazula, Viktor Szpisjak & Balint Vadai](https://www.youtube.com/watch?v=TnY057T48Aw)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/TnY057T48Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
