@@ -20,6 +20,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 * 2020 [Why Sport1 built their Internal Developer Platform by Paolo Garri](https://humanitec.com/blog/why-sport1-built-their-internal-developer-platform)
 * 2020 [Why Everyone Builds Internal Kubernetes Platforms by Daniel Thiry](https://itnext.io/why-everyone-builds-internal-kubernetes-platforms-284c2cf76226)
 * 2020 [Why Zalando built their Internal Developer Platform by Jan Löffler](https://humanitec.com/blog/why-zalando-builds-an-own-developer-platform)
+* 2020 [Why managing dev environments is a full time job at Eventbrite by Ethan J. Jackson](https://dev.to/ethanjjackson/q-a-how-eventbrite-prioritizes-developer-productivity-33m0)
 * 2020 [Building an Internal Kubernetes Platform by Daniel Thiry](https://loft.sh/blog/building-an-internal-kubernetes-platform)
 * 2020 [Platform Engineering by Luis Alonzo Herrera](https://wichon.com/platform-engineering)
 * 2020 [How We Improved Developer Productivity for Our DevOps Teams by Maria Jernström and Jason palmer](https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams/)
