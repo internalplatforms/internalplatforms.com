@@ -10,6 +10,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 
 ### Articles, papers and writings
 
+* 2021 [mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
 * 2021 [How we rolled out our Kubernetes platform in Adevinta Spain by Pau Gay](https://medium.com/adevinta-tech-blog/how-we-rolled-out-our-kubernetes-platform-in-adevinta-spain-63495884a1db)
 * 2021 [Preventing “go-around” with Platform Thinking by Kislay Verma](https://kislayverma.com/platform-thinking/preventing-go-around-with-platform-thinking/)
 * 2021 [How LinkedIn turned to real-time feedback for developer tooling by Michael Berlowitz](https://engineering.linkedin.com/blog/2021/real-time-feedback-for-developer-tooling)
