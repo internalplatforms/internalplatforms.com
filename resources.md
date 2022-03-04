@@ -5,11 +5,11 @@
 A list of books, writings and papers about the Internal Platforms team and products. 
 
 ### Books
-
+* [Building Software Platforms: A Guide to SaaS Transition with AWS](https://www.amazon.es/Building-Software-Platforms-Guide-Transition/dp/B09L56CZKD/ref=sxts_rp_s1_0)
 * [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
 
 ### Articles, papers and writings
-
+* 2022 [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 * 2021 [mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
 * 2021 [How we rolled out our Kubernetes platform in Adevinta Spain by Pau Gay](https://medium.com/adevinta-tech-blog/how-we-rolled-out-our-kubernetes-platform-in-adevinta-spain-63495884a1db)
 * 2021 [Preventing “go-around” with Platform Thinking by Kislay Verma](https://kislayverma.com/platform-thinking/preventing-go-around-with-platform-thinking/)
