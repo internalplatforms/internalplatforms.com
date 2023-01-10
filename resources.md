@@ -9,6 +9,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 * [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
 
 ### Articles, papers and writings
+* 2022 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap/)
 * 2022 [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 * 2021 [mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
 * 2021 [The pursuit of software teams autonomy: how we created an Internal Platform at Packlink](https://medium.com/packlinktech/the-pursuit-of-software-teams-autonomy-how-we-created-an-internal-platform-at-packlink-62c66d90249a)
