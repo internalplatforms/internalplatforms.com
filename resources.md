@@ -9,7 +9,7 @@ A list of books, writings and papers about the Internal Platforms team and produ
 * [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
 
 ### Articles, papers and writings
-* 2023 (What Is Platform Engineering? Role, Principles & Benefits)[https://spacelift.io/blog/what-is-platform-engineering]
+* 2023 [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 * 2022 [Platform Engineering Needs a Prescriptive Roadmap: a Conversation with Nigel Kersten](https://www.infoq.com/articles/platform-engineering-roadmap/)
 * 2022 [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 * 2021 [mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
