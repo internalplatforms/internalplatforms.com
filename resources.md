@@ -46,8 +46,11 @@ A list of books, writings and papers about the Internal Platforms team and produ
 * 2015 ["Let a 1,000 Flowers Bloom. Then RIP 999 of them out by the roots" by Peter Seibel (Twitter)](http://gigamonkeys.com/flowers/)
 
 
-### Great reference websites
+### Great reference websites, conferences and courses
 
+* [Platform Engineering](https://platformengineering.org/)
+* [PlatformCon](https://platformcon.com/)
+* [Platform as a Product course](https://academy.teamtopologies.com/courses/platform-as-a-product)
 * [Digital Platform Playbook by Equal Experts](https://digital-platform.playbook.ee/)
 * [Internal Developer Platform by Humanitec](https://internaldeveloperplatform.org/)
 
